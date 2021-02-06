@@ -1,2 +1,4 @@
+six
 numpy
+mfem
 tensorflow
