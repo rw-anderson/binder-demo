@@ -1,8 +1,9 @@
 six
 numpy
 mfem
-pyglvis
+glvis
 matplotlib
-tensorflow
+tensorflow==1.15
 gym
 ray[rllib]
+jupyter
